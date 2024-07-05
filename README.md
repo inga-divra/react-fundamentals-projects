@@ -1,6 +1,6 @@
 # React Fundamentals Projects
 
-In this repository, you'll find small projects I created while learning React hooks.
+In this repository, you'll find small projects I completed while learning React hooks.
 These projects are part of John Smilga's React course I took. For more information, visit [John Smilga's website](https://johnsmilga.com/).
 
 ## Projects Overview
@@ -19,6 +19,3 @@ These projects are part of John Smilga's React course I took. For more informati
 12. **Project 12: Sidebar**
 13. **Project 13: Strapi-submenus**
 14. **Project 14: Cart**
-
-
-
