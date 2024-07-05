@@ -7,7 +7,7 @@ Birthday Buddy
 ## Overview
 The Birthday Reminder App is a simple React application designed to display a list of people and their birthdays. It shows how many birthdays are today and provides a clean interface to manage and clear this information.
 
-Steps to Build
+## Steps to Build
 Import Data: Import an array of objects from data.js, where each object represents a person with properties like name, age, and image.
 
 Setup State Variable: Use the useState hook to set up the imported data as a state variable in App.jsx.
@@ -20,5 +20,5 @@ Create a List component to hold and render the list of people.
 Create a Person component to display individual person's details (image, name, age).
 Clear List: Add a button in App.jsx to clear the list by resetting the state variable to an empty array.
 
-Summary
+## Summary
 The flow of the application involves importing data, setting up state, mapping through the data to render components, and providing a functionality
