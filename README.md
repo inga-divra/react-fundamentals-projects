@@ -2,7 +2,7 @@
 This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
-Birthday Buddy
+[Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
 
 ## Overview
 The Birthday Reminder App is a simple React application designed to display a list of people and their birthdays. It shows how many birthdays are today and provides a clean interface to manage and clear this information.
