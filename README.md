@@ -1,39 +1,24 @@
-## Figma URL
+## Birthday Reminder App
+This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
+## Figma URL
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
 
-## Steps
+## Overview
+The Birthday Reminder App is a simple React application designed to display a list of people and their birthdays. It shows how many birthdays are today and provides a clean interface to manage and clear this information.
 
-- don't worry about CSS, checkout example image
+## Steps to Build
+Import Data: Import an array of objects from data.js, where each object represents a person with properties like name, age, and image.
 
-#### Import Data
+Setup State Variable: Use the useState hook to set up the imported data as a state variable in App.jsx.
 
-In App.jsx, import the data (from data.js) to be rendered as an array of objects. Each object should represent a person and contain properties such as name, age, and image URL.
+Iterate and Render:
 
-#### Setup State Variable
+Display the total number of birthdays using the length property of the state variable.
+Use the map method to iterate over the data array and render each person's details.
+Create a List component to hold and render the list of people.
+Create a Person component to display individual person's details (image, name, age).
+Clear List: Add a button in App.jsx to clear the list by resetting the state variable to an empty array.
 
-Then, set up the data as a state variable using the useState hook. This will allow the data to be modified and have those changes automatically reflected in the rendered output.
-
-#### Iterate and Render
-
-Display the number of items in the list by using the length property of the state variable. This information can be displayed using plain text or added to a message or heading element.
-
-To render the list of people, iterate over the data array using the map method. For each item in the array, render an image element (hint : use inline styles to make width smaller).Additionally, render the person's name and age as plain text.
-
-Create a List component to hold the rendered items. This component can be a simple div element containing the list of Person components.
-
-Create a Person component to render the information for each person. This component should receive the person data as props and render the image, name, and age information.
-
-#### Clear List
-
-In App.jsx, add a button to clear the list, and set up the functionality by defining a function that resets the state variable to an empty array.
-
-Overall, the flow of the application should look something like this:
-
-- Import the data you want to render in App.jsx.
-- Set up the data as a state variable using useState.
-- Use the map method to iterate over the data array and render a Person component for each person.
-- Each Person component should render an image with a style prop to control the width, the person's name, and the person's age.
-- Create a List component that holds the rendered items.
-- Create a button with functionality to clear the list.
-- Display the number of items in the list using the length property of the state variable. This can be rendered using plain text or added to a message or heading element.
+## Summary
+The flow of the application involves importing data, setting up state, mapping through the data to render components, and providing a functionality
