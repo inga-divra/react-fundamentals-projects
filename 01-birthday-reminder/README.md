@@ -15,7 +15,6 @@ Setup State Variable: Use the useState hook to set up the imported data as a sta
 Iterate and Render:
 
 Display the total number of birthdays using the length property of the state variable.
-Use the map method to iterate over the data array and render each person's details.
 Create a List component to hold and render the list of people.
 Create a Person component to display individual person's details (image, name, age).
 Clear List: Add a button in App.jsx to clear the list by resetting the state variable to an empty array.
