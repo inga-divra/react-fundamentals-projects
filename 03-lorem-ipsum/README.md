@@ -1,4 +1,4 @@
-## Lorem-Ipsum App https://birthday-reminder-ingady.netlify.app/
+## Lorem-Ipsum App https://ingady-lorem-ipsum.netlify.app/
 This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
