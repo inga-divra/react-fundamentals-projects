@@ -7,15 +7,6 @@ These projects are part of John Smilga's React course I took. For more informati
 
 1. **Birthday-reminder**
 2. **Tours**
-3. **Reviews**
-4. **Accordion**
-5. **Menu**
-6. **Tabs**
-7. **Slider**
-8. **Lorem-ipsum**
-9. **Color-generator**
-10. **Grocery-bud**
-11. **Navbar**
-12. **Sidebar**
-13. **Strapi-submenus**
-14. **Cart**
+3. **Lorem-ipsum**
+
+
