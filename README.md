@@ -8,5 +8,6 @@ These projects are part of John Smilga's React course I took. For more informati
 1. **Birthday-reminder**
 2. **Tours**
 3. **Lorem-ipsum**
+4. **Navbar*
 
 
