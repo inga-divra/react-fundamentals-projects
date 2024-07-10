@@ -1,4 +1,5 @@
 Navbar https://ingady-navbar.netlify.app
+
 This small project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
