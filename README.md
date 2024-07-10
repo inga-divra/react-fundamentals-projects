@@ -9,5 +9,6 @@ These projects are part of John Smilga's React course I took. For more informati
 2. **Tours**
 3. **Lorem-ipsum**
 4. **Navbar**
+5. **Sidebar/Modal**
 
 
