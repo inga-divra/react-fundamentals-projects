@@ -10,5 +10,6 @@ These projects are part of John Smilga's React course I took. For more informati
 3. **Lorem-ipsum**
 4. **Navbar**
 5. **Sidebar/Modal**
+6. **Strapi Submenus**
 
 
