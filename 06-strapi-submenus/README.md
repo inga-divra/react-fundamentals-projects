@@ -1,3 +1,6 @@
+## Strapi Submenus https://strapi-submenus-ingady.netlify.app
+This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
+
 ## Figma URL
 
 [Strapi Submenus](https://www.figma.com/file/rXeU2gYTyKL2FrYmUNgv4r/Strapi-Submenus?node-id=0%3A1&t=Nx5H36ryj9ArZCI6-1)
