@@ -1,6 +1,8 @@
-## Project Overview
+## Cart https://cart-ingady.netlify.app/
 
 This shopping cart project demonstrates the use of the Context API and useReducer for state management. The cart data is stored in a JavaScript Map to ensure efficient lookups and updates.
+
+This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ### Figma URL
 
