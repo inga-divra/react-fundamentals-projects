@@ -12,5 +12,10 @@ These projects are part of John Smilga's React course I took. For more informati
 5. **Sidebar/Modal**
 6. **Strapi Submenus**
 7. **Cart**
+8. **Reviews**
+9. **Accordion-questions**
+10. **Menu**
+11. **Tabs**
+12. **Slider**
 
 
