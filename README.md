@@ -17,5 +17,7 @@ These projects are part of John Smilga's React course I took. For more informati
 10. **Menu**
 11. **Tabs**
 12. **Slider**
+13. **Color-generator**
+14. **Grocery-bud**
 
 
