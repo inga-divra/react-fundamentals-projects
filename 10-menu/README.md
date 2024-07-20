@@ -1,6 +1,8 @@
+## Menu App https://menu-ingady.netlify.app/
+
 ## Project Overview
 
-This small project is a menu application that displays a list of menu items, allows users to filter items by category, and dynamically updates the displayed items based on user selection. The application will have a title, menu items, and category buttons for filtering.
+This small project is a menu application that displays a list of menu items, allows users to filter items by category, and dynamically updates the displayed items based on user selection. The application will have a title, menu items, and category buttons for filtering. This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
 
