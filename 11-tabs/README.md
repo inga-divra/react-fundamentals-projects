@@ -1,6 +1,8 @@
+## Tabs https://tabs-ingady.netlify.app/
+
 ## Project Overview
 
-This project is a simple React application that displays a list of job experiences. The application fetches job data from an external API, maintains state to manage the currently selected job, and dynamically renders job details and duties. Users can navigate through different jobs using a set of buttons, each representing a job fetched from the API.
+This project is a simple React application that displays a list of job experiences. The application fetches job data from an external API, maintains state to manage the currently selected job, and dynamically renders job details and duties. Users can navigate through different jobs using a set of buttons, each representing a job fetched from the API.This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
 
