@@ -1,4 +1,6 @@
 ## Slider https://color-generator-ingady.netlify.app/
+This project involves creating a color generator application using React. The application allows users to input a color and generates a list of color shades. Users can copy hex values of the colors to their clipboard and receive notifications for successful or erroneous actions.
+
 This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
