@@ -1,7 +1,8 @@
 # React Fundamentals Projects
 
-In this repository, you'll find small projects I completed while learning React hooks.
-These projects are part of John Smilga's React course I took. For more information, visit [John Smilga's website](https://johnsmilga.com/).
+In this repository, you'll find small projects I completed while learning React hooks and fundamental concepts. These projects helped me understand key aspects of React development, including state management, component lifecycle, and user interaction handling. These projects were part of John Smilga's React course, which provided a comprehensive learning experience.
+
+For more information, visit [John Smilga's website](https://johnsmilga.com/).
 
 ## Projects Overview
 
