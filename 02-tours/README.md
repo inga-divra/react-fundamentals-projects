@@ -1,4 +1,4 @@
-## Tours App https://ingady-tours-app.netlify.app/
+## Tours App https://tours-ingady.netlify.app/
 This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
 
 ## Figma URL
