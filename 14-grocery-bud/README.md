@@ -1,3 +1,8 @@
+## Grocery Bud https://grocery-bud-ingady.netlify.app/
+This small project involves creating a grocery list application using React. The application allows users to add, check off, and remove grocery items. The list persists across page reloads using local storage, and users receive notifications for various actions using React-Toastify.
+
+The project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
+
 ## Figma URL
 
 [Grocery Bud](https://www.figma.com/file/8rXGl68NoEmAhHpcV7aB5o/Grocery-bud?node-id=0%3A1&t=IMjjwDExGWpXdpQL-1)
