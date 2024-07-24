@@ -1,3 +1,6 @@
+## Slider https://slider-manual-and-slick-ingady.netlify.app/
+This project is a part of John Smilga's React course I took. For more information, visit https://johnsmilga.com/
+
 ## Figma URL
 
 [Slider](https://www.figma.com/file/QfMzzThSYmgabSvn4t8Yfe/Slider?node-id=0%3A1&t=IpsYjMUn3Xj3Hs3N-1)
